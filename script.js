@@ -1,55 +1,55 @@
 
 const studyData = {
     "Physics": [
-        "Check khub learning guides",
-        "Watch YouTube video",
-        "10 book problems",
-        "10 AI problems",
-        "10 conceptual questions"
+        "KHub Learning Guides",
+        "Watch YouTube Video",
+        "10 Book Problems",
+        "10 AI Problems",
+        "10 Conceptual Questions"
     ],
     "Biology": [
-        "NotebookLM mindmap",
-        "NotebookLM flashcards",
-        "NotebookLM quiz",
-        "AI quiz",
-        "Physical flashcards"
+        "NotebookLM Mindmap",
+        "NotebookLM Flashcards",
+        "NotebookLM Quiz",
+        "AI Quiz",
+        "Physical Flashcards"
     ],
     "Chemistry": [
         "Tutor",
-        "Ma’am’s slides",
-        "5 conceptual questions",
-        "25 drill questions"
+        "Slides",
+        "5 Conceptual Questions",
+        "25 Drill Questions"
     ],
     "Social Science": [
-        "NotebookLM video",
-        "NotebookLM flashcards",
-        "NotebookLM quiz",
-        "Sir’s slides"
+        "NotebookLM Video",
+        "NotebookLM Flashcards",
+        "NotebookLM Quiz",
+        "Slides"
     ],
     "Statistics": [
-        "Sir’s slides",
-        "20 conceptual questions",
-        "20 drill work questions",
-        "5 challenging mixed questions"
+        "Slides",
+        "20 Conceptual Questions",
+        "20 Drill Work Questions",
+        "5 Challenging Questions"
     ],
     "Math": [
-        "Sir Leo’s videos",
-        "Khub practice exercises",
-        "10-item mini quiz per sub-topic",
-        "10 conceptual questions",
-        "15 multiple choice",
-        "10 short answer",
-        "5 challenging questions"
+        "Sir Leo’s Videos",
+        "KHub Exercises",
+        "10-item Sub-Topic Quiz",
+        "10 Conceptual Questions",
+        "15 Multiple Choice",
+        "10 Short Answer",
+        "5 Challenging Questions"
     ],
     "Filipino": [
-        "Video explanation",
-        "29-item quiz",
-        "1 essay question",
+        "Video Explanation",
+        "29-item Quiz",
+        "1 Essay Question",
         "Recaps"
     ],
     "English": [
-        "Video explanation",
-        "15-item quiz",
+        "Video Explanation",
+        "15-item Quiz",
         "Recaps"
     ]
 };
